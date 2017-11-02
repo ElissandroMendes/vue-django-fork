@@ -1,5 +1,7 @@
 # vue-django-webpack-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NdagiStanley/vue-django-fork.svg)](https://greenkeeper.io/)
+
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction integrated into a django application
 
